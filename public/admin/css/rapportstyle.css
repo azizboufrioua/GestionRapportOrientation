@@ -1,0 +1,9 @@
+@font-face {
+  font-family: aljazera;
+  src: url("../fonts/aljazera.ttf");
+}
+
+body {
+  font-family: aljazera;
+  color:red;
+}
